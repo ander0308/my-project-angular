@@ -5,5 +5,10 @@
   box-sizing: border-box;
   text-decoration: none;
   list-style: none;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Inter", sans-serif;
+}
+
+img {
+  width: 100%;
+  display: block;
 }
